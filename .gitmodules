@@ -1,0 +1,27 @@
+[submodule "FBGEMM"]
+	path = FBGEMM
+	url = https://github.com/pytorch/FBGEMM.git
+[submodule "Tensile"]
+	path = Tensile
+	url = https://github.com/ROCmSoftwarePlatform/Tensile
+[submodule "cutlass"]
+	path = cutlass
+	url = https://github.com/NVIDIA/cutlass
+[submodule "fast-matmul"]
+	path = fast-matmul
+	url = https://github.com/arbenson/fast-matmul.git
+[submodule "fmm-gen"]
+	path = fmm-gen
+	url = https://github.com/flame/fmm-gen.git
+[submodule "gemm"]
+	path = gemm
+	url = https://github.com/blu/gemm
+[submodule "gemmlowp"]
+	path = gemmlowp
+	url = https://github.com/google/gemmlowp
+[submodule "how-to-optimize-gemm"]
+	path = how-to-optimize-gemm
+	url = https://github.com/flame/how-to-optimize-gemm
+[submodule "tblis-strassen"]
+	path = tblis-strassen
+	url = https://github.com/flame/tblis-strassen
